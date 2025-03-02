@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#E3F2FD" x="0" y="0" width="800" height="600"/>
+        <g transform="translate(100, 100)">
+            <rect stroke="#1976D2" stroke-width="4" x="0" y="0" width="600" height="400"/>
+            <line x1="0" y1="0" x2="600" y2="400" stroke="#1976D2" stroke-width="2"/>
+            <line x1="600" y1="0" x2="0" y2="400" stroke="#1976D2" stroke-width="2"/>
+            <circle cx="300" cy="200" r="100" stroke="#1976D2" stroke-width="4"/>
+        </g>
+    </g>
+</svg>
